@@ -3,7 +3,7 @@
     authDomain: "eventfinder-7ceef.firebaseapp.com",
     databaseURL: "https://eventfinder-7ceef.firebaseio.com",
     projectId: "eventfinder-7ceef",
-    storageBucket: "",
+    storageBucket: "eventfinder-7ceef.appspot.com",
     messagingSenderId: "296051194271"
   };
 // $("#weather-div").hide();
