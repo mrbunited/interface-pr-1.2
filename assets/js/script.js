@@ -1,11 +1,11 @@
-var config = {
-  apiKey: "AIzaSyCZzfdRrhwJAeF05SkN8G2kjiFLvE8HIHk",
-  authDomain: "project-1-travel.firebaseapp.com",
-  databaseURL: "https://project-1-travel.firebaseio.com",
-  projectId: "project-1-travel",
-  storageBucket: "project-1-travel.appspot.com",
-  messagingSenderId: "798853647697"
-};
+  var config = {
+    apiKey: "AIzaSyBe-1yn8vaYvg0OQ-1XzmVnQz3TOEOV1s4",
+    authDomain: "eventfinder-7ceef.firebaseapp.com",
+    databaseURL: "https://eventfinder-7ceef.firebaseio.com",
+    projectId: "eventfinder-7ceef",
+    storageBucket: "eventfinder-7ceef.appspot.com",
+    messagingSenderId: "296051194271"
+  };
 // $("#weather-div").hide();
 // $("#event-div").hide();
 // $("#fave-div").hide();
