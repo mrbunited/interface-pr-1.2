@@ -251,9 +251,9 @@ $("#submit").on("click", function (event) {
 
 
 // databse starts here
-
-    database.ref().on("child_added", function (snapshot) {
   var faveDisplay= [];
+    database.ref().on("child_added", function (snapshot) {
+
 faveDisplay = (snapshot.val().faveCity);
   console.log(faveDisplay);
   $("#fave-display").prepend("<div>" + faveDisplay + "</div>");
