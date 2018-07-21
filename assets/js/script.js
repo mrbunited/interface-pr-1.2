@@ -252,7 +252,7 @@ $("#submit").on("click", function (event) {
 
 // databse starts here
   var faveDisplay= [];  
-console.log(faveDisplay);
+
     database.ref().on("child_added", function (snapshot) {
 
 faveDisplay = (snapshot.val().faveCity);
